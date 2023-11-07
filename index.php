@@ -2,4 +2,4 @@
 
 declare(strict_types=1);
 
-echo 'test test';
+echo 'test test test';
